@@ -4,7 +4,7 @@
 
 Course project, *LLMs and Agents*, Holon Institute of Technology (HIT).
 
-**Team:** Agam Rahmani · Hila Paz Kaniar
+**Team:** Agam Rahmani · Hila Paz Cagnart
 
 ## The problem
 
